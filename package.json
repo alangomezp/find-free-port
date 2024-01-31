@@ -1,0 +1,30 @@
+{
+  "name": "find-free-port",
+  "version": "1.0.0",
+  "description": "find an available port on localhost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alangomezp/find-free-port.git"
+  },
+  "keywords": [
+    "node",
+    "port",
+    "server"
+  ],
+  "author": "Alan Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alangomezp/find-free-port/issues"
+  },
+  "homepage": "https://github.com/alangomezp/find-free-port#readme",
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
